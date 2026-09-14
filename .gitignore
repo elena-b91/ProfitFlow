@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+build/
+backend/target/
+
+# IDE / OS files
+.DS_Store
+.idea/
+*.iml
+.vscode/
